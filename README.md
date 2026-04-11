@@ -59,13 +59,9 @@ d) Forecasting SEO Fees
 👉 Interpretation:
 Underwriting fees are stable over time, with no major structural shifts expected
 
-## 🌳 Variable Importance
-Decision tree model used to assess predictor importance
-
-Key result:
-
-Market value is the most important factor
-Followed by issue size and deal characteristics
+e) Variable Importance
+- Decision tree model used to assess predictor importance
+- Key result: Market value is the most important factor, followed by issue size and deal characteristics
 
 👉 Confirms robustness of regression findings
 
